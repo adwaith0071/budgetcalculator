@@ -1,0 +1,23 @@
+table{
+    background-color: black;
+    width: 28%;
+    border: 5px solid;
+    height: 45%;
+}
+button{
+    padding: 10px;
+    width: 100px;
+    background-color: azure;
+    border-radius: 5px;
+}
+td{
+    padding: 4px;
+}
+input{
+    padding: 7px;
+    width:100%;
+    border: 3px solid;
+}
+body{
+    background-color: aliceblue;
+}
